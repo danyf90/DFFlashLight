@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DF Torcia</string>
+    <string name="hello">Tocca lo schermo per spegnere il flash</string>
+    <string name="no_camera">Impossibile accedere alla fotocamera</string>
+    <string name="no_flash">Flash non presente</string>
+    <string name="no_torch">FLASH_MODE_TORCH non supportato</string>
+    <string name="moto_init">Impossibile inizializzare il flash</string>
+    <string name="locking_state">Locking State</string>
+    
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DF FlashLight</string>
+    <string name="hello">Tap the screen to toggle flashlight</string>
+    <string name="no_camera">Unable to access to the camera</string>
+    <string name="no_flash">Flash not available</string>
+    <string name="no_torch">FLASH_MODE_TORCH not supported</string>
+    <string name="moto_init">Flash could not be initialized</string>
+    <string name="locking_state">Locking State</string>
+
+</resources>

@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.formichelli.dfflashlight"
+        minSdkVersion 9
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+        }
+    }
+
+    dependencies {
+        compile 'com.android.support:support-v4:21.0.3'
+        compile 'com.android.support:appcompat-v7:21.0.3'
+    }
+}
